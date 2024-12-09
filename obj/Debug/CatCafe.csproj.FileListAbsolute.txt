@@ -1,0 +1,11 @@
+C:\Users\luizp\Desktop\CatCafe\bin\Debug\CatCafe.exe.config
+C:\Users\luizp\Desktop\CatCafe\bin\Debug\CatCafe.exe
+C:\Users\luizp\Desktop\CatCafe\bin\Debug\CatCafe.pdb
+C:\Users\luizp\Desktop\CatCafe\obj\Debug\CatCafe.csproj.AssemblyReference.cache
+C:\Users\luizp\Desktop\CatCafe\obj\Debug\CatCafe.frm_principal.resources
+C:\Users\luizp\Desktop\CatCafe\obj\Debug\CatCafe.Properties.Resources.resources
+C:\Users\luizp\Desktop\CatCafe\obj\Debug\CatCafe.csproj.GenerateResource.cache
+C:\Users\luizp\Desktop\CatCafe\obj\Debug\CatCafe.csproj.CoreCompileInputs.cache
+C:\Users\luizp\Desktop\CatCafe\obj\Debug\CatCafe.exe
+C:\Users\luizp\Desktop\CatCafe\obj\Debug\CatCafe.pdb
+C:\Users\luizp\Desktop\CatCafe\obj\Debug\CatCafe.forms.Frm_login.resources
